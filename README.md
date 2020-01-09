@@ -1,1 +1,1 @@
-# Smart-Website-
+# General-Knowledge-Quiz website
